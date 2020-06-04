@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     let sear2 = 3
     let sear4 = 4
     let ser5  = 5
+    let ser6  = 6
     @IBOutlet weak var countrySearch: UISearchBar!
     @IBOutlet weak var tblView: UITableView!
     override func viewDidLoad() {
