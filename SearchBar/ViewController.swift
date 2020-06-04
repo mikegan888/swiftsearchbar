@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     var searching = false
     let sear1 = 2
     let sear2 = 3
+    let sear4 = 4
     @IBOutlet weak var countrySearch: UISearchBar!
     @IBOutlet weak var tblView: UITableView!
     override func viewDidLoad() {
